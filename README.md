@@ -19,3 +19,5 @@ A borrower can rent any listed vehicle, and the lender determines when the trip 
 The lender can then rate the trip on a star rating (1-5), and the borrower can do it after.
 
 There are 4 tables within the database schema: borrower, lender, vehicle, trip
+
+Running main.py starts the program.
